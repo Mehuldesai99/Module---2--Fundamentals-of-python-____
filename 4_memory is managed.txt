@@ -1,0 +1,10 @@
+>>> 4.  How memory is managed in Python? 
+
+>>> In Python, memory management is handled by the Python memory manager, which is responsible for allocating and deallocating memory for objects in the Python program. Python uses a private heap to manage memory, and it has its own built-in memory allocation and deallocation mechanisms.
+
+1. Automatic Memory Management
+2. Reference Counting
+3. Garbage Collection
+4. Memory Allocation
+5. Memory Management Functions
+6. Memory Profiling and Optimization
